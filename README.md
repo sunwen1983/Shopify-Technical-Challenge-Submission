@@ -13,3 +13,6 @@ On Shopify, we have exactly 100 sneaker shops, and each of these shops sells onl
 1. Think about what could be going wrong with our calculation. Think about a better way to evaluate this data. 
 2. What metric would you report for this dataset?
 3. What is its value?
+
+Solution:
+1. By checking the data and try several different calculations, I think this $3145.13 comes from 
