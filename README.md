@@ -30,7 +30,7 @@ For this question you’ll need to use SQL. Follow this link to access the data 
 Solution:
 1. 54
 2. Peacock
-3. Camembert Pierrot
+3. Boston Crab Meat
 
 Please check all the code and process of calulations via links listed below:
 [Question 1](https://github.com/sunwen1983/Shopify-Technical-Challenge-Submission/blob/main/Shopify%20Technical%20Challenge%20Submission%20Question%201.ipynb)
