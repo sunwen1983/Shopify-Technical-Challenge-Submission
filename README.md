@@ -32,7 +32,7 @@ Solution:
 2. Peacock
 3. Boston Crab Meat
 
-Please check all the code and process of calulations via links listed below:/n
+Please check all the code and process of calulations via links listed below:\n
 [Question 1](https://github.com/sunwen1983/Shopify-Technical-Challenge-Submission/blob/main/Shopify%20Technical%20Challenge%20Submission%20Question%201.ipynb)
 [Question 2](https://github.com/sunwen1983/Shopify-Technical-Challenge-Submission/blob/main/Shopify%20Technical%20Challenge%20Submission%20Question%202.sql) 
 
