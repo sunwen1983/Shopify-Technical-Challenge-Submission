@@ -15,4 +15,7 @@ On Shopify, we have exactly 100 sneaker shops, and each of these shops sells onl
 3. What is its value?
 
 Solution:
-1. By checking the data and try several different calculations, I think this $3145.13 comes from 
+1. By checking the data and try several different calculations, I think this $3145.13 comes from 15725640/5000, which is Total order amount/Total order numbers. The correct AOV should be Total order amount/Total item number
+2. As I mentioned above, the metric I would report should be  total order amount and total item number, then the AOV = total order amount/total item number
+3. The correct AOV = 357.92152221412965
+
