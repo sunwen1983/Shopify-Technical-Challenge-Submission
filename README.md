@@ -19,3 +19,21 @@ Solution:
 2. As I mentioned above, the metric I would report should be  total order amount and total item number, then the AOV = total order amount/total item number
 3. The correct AOV = 357.92152221412965
 
+Question 2:
+
+For this question you’ll need to use SQL. Follow this link to access the data set required for the challenge. Please use queries to answer the following questions. Paste your queries along with your final numerical answers below.
+
+1.How many orders were shipped by Speedy Express in total?
+2.What is the last name of the employee with the most orders?
+3.What product was ordered the most by customers in Germany?
+
+Solution:
+1. 54
+2. Peacock
+3. Camembert Pierrot
+
+Please check all the code and process of calulations via links listed below:
+[Question 1](https://github.com/sunwen1983/Shopify-Technical-Challenge-Submission/blob/main/Shopify%20Technical%20Challenge%20Submission%20Question%201.ipynb)
+[Question 2]() 
+
+
